@@ -1,0 +1,73 @@
+{
+    "name": "Heavybit",
+    "description": "Learn the right way to take your developer product to market.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2958-heavybit.jpg",
+    "tags": [
+        "agencies",
+        "communities",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/heavybit\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Heavybit",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2958-heavybit.jpg",
+            "humanURL": "http:\/\/www.heavybit.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/heavybit-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/heavybit-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.heavybit.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.heavybit.com\/blog?format=rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/heavybit-industries"
+        },
+        {
+            "type": "Email",
+            "url": "info@heavybit.com"
+        },
+        {
+            "type": "Email",
+            "url": "membership@heavybit.com"
+        },
+        {
+            "type": "Email",
+            "url": "events@heavybit.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@heavybit.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/heavybit"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.heavybit.com\/"
+        }
+    ]
+}
