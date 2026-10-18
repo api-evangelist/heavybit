@@ -1,0 +1,917 @@
+generated: '2026-10-18'
+method: searched
+source: https://www.heavybit.com/portfolio
+notes: 78 companies from the server-rendered portfolio grid; homepage domains from each /portfolio/<slug>
+  detail page. Status reflects the site badge (acquired/ipo); unbadged = active. Stage not published.
+summary:
+  portfolio_total: 78
+  in_network: 45
+  api_providers: 34
+  missing: 33
+  stubs_created: 0
+companies:
+- name: Antfly
+  url: https://www.antfly.io
+  description: a retrieval engine that automates chunking, embedding, and search for AI agents
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/antfly
+  suggested_slug: antfly
+  in_network: false
+  is_api_provider: false
+- name: Modiqo
+  url: https://www.modiqo.ai
+  description: The execution layer for AI agents
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/modiqo
+  suggested_slug: modiqo
+  in_network: false
+  is_api_provider: false
+- name: Musical AI
+  url: https://www.wearemusical.ai
+  description: attribution for generative media
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/musical-ai
+  suggested_slug: musical-ai
+  in_network: false
+  is_api_provider: false
+- name: Milestone
+  url: https://www.mstone.ai
+  description: the enterprise AI adoption platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/milestone
+  suggested_slug: milestone
+  in_network: false
+  is_api_provider: false
+- name: Unikraft
+  url: https://unikraft.com
+  description: cloud scaling without limits
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/unikraft
+  suggested_slug: unikraft
+  in_network: false
+  is_api_provider: false
+- name: Recce
+  url: https://datarecce.io
+  description: Pre-production data visibility platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/reduce
+  suggested_slug: recce
+  in_network: false
+  is_api_provider: false
+- name: Reo.dev
+  url: https://www.reo.dev
+  description: Developer intent GTM platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/reo
+  suggested_slug: reodev
+  in_network: false
+  is_api_provider: false
+- name: Vibrant Labs
+  url: https://vibrantlabs.com
+  description: simulation environments for AI agents
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/vibrant-labs
+  suggested_slug: vibrant-labs
+  in_network: false
+  is_api_provider: false
+- name: Kubiya
+  url: https://www.kubiya.ai
+  description: AI teammates for developer and infrastructure operations
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/kubiya
+  suggested_slug: kubiya
+  in_network: false
+  is_api_provider: false
+- name: Duckbill
+  url: https://www.duckbillhq.com
+  description: the cloud cost management data platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/duckbill
+  x-name-collision: duckbill
+  suggested_slug: duckbillhq-com
+  in_network: false
+  is_api_provider: false
+- name: Replicate
+  url: https://www.replicate.com
+  description: open-source AI models
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/replicate
+  slug: replicate
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Continue
+  url: https://www.continue.dev
+  description: Open-source IDE extensions for your own modular AI dev system
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/continue
+  slug: continue-dev
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: MultiModel
+  url: https://www.multimodel.com
+  description: secure AI environments for organizations
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/multimodel
+  suggested_slug: multimodel
+  in_network: false
+  is_api_provider: false
+- name: Anchor
+  url: null
+  description: a developer-oriented service for encrypting applications and infrastructure
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/anchor
+  slug: anchor
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Streamfold
+  url: null
+  description: high-performance telemetry data management
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/streamfold
+  slug: streamfold
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Moonchild
+  url: https://www.moonchild.ai
+  description: AI-powered front-end engineering and design platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/moonchild
+  suggested_slug: moonchild
+  in_network: false
+  is_api_provider: false
+- name: Mobot
+  url: https://www.teammobot.com
+  description: automated mobile QA on physical devices
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/mobot
+  suggested_slug: mobot
+  in_network: false
+  is_api_provider: false
+- name: Kosli
+  url: https://www.kosli.com
+  description: complete, content-addressable history of infrastructure changes
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/kosli
+  suggested_slug: kosli
+  in_network: false
+  is_api_provider: false
+- name: Metrist
+  url: https://www.metrist.io
+  description: performance monitoring solution for 3rd party dependencies
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/metrist
+  suggested_slug: metrist
+  in_network: false
+  is_api_provider: false
+- name: Groundcover
+  url: https://www.groundcover.com
+  description: Cloud-Native Observability Platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/groundcover
+  slug: groundcover
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: LocalStack
+  url: https://www.localstack.cloud
+  description: cloud app development and testing
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/localstack
+  slug: localstack
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Divebell
+  url: https://www.divebell.com
+  description: data discovery and monitoring
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/divebell
+  slug: divebell
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Begin
+  url: https://www.begin.com
+  description: globally scalable AWS infrastructure
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/begin
+  suggested_slug: begin
+  in_network: false
+  is_api_provider: false
+- name: Aserto
+  url: https://www.aserto.com
+  description: cloud-native authorization as a service
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/aserto
+  slug: aserto
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Memgraph
+  url: https://www.memgraph.io
+  description: Frictionless, Innovative, Graph Applications
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/memgraph
+  slug: memgraph
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Crunchy Data
+  url: https://www.crunchydata.com
+  description: open source PostgreSQL for the enterprise
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/crunchy-data
+  slug: crunchy-data
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: PartnerPage
+  url: https://www.partnerpage.io
+  description: turnkey, custom partner directories
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/partnerpage
+  suggested_slug: partnerpage
+  in_network: false
+  is_api_provider: false
+- name: Shipyard
+  url: https://www.shipyard.build
+  description: ephemeral on-demand environments
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/shipyard
+  suggested_slug: shipyard
+  in_network: false
+  is_api_provider: false
+- name: Jeli
+  url: https://www.jeli.io
+  description: incident analysis company
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/jeli
+  suggested_slug: jeli
+  in_network: false
+  is_api_provider: false
+- name: Tailscale
+  url: https://tailscale.com
+  description: zero config VPN for building secure networks
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/tailscale
+  slug: tailscale
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Orbit
+  url: https://www.orbit.love
+  description: mission control for your community
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/orbit
+  slug: orbit
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Avo
+  url: https://www.avo.app
+  description: next-generation analytics governance tool
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/avo
+  x-name-collision: avo
+  suggested_slug: avo-app
+  in_network: false
+  is_api_provider: false
+- name: Sanity
+  url: https://www.sanity.io
+  description: the unified content platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/sanity
+  slug: sanity
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Radar
+  url: https://radar.com
+  description: the leading geofencing platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/radar
+  slug: radar
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Moesif
+  url: https://www.moesif.com
+  description: API intelligence platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/moesif
+  slug: moesif
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Tonic.ai
+  url: https://www.tonic.ai
+  description: the fake data company
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/tonic
+  slug: tonic-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: TruSTAR
+  url: https://www.trustar.co
+  description: the first security intelligence exchange platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/trustar
+  suggested_slug: trustar
+  in_network: false
+  is_api_provider: false
+- name: Blockdaemon
+  url: https://www.blockdaemon.com
+  description: institutional grade blockchain infrastructure
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/blockdaemon
+  slug: blockdaemon
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Pusher
+  url: https://www.pusher.com
+  description: realtime experiences for mobile and web
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/pusher
+  slug: pusher
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Replicated
+  url: https://www.replicated.com
+  description: multi-prem software delivery and management
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/replicated
+  slug: replicated
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Greta
+  url: https://www.greta.io
+  description: a P2P distribution network
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/greta
+  suggested_slug: greta
+  in_network: false
+  is_api_provider: false
+- name: Contentful
+  url: https://www.contentful.com
+  description: headless content management system
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/contentful
+  slug: contentful
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: LunchBadger
+  url: https://www.lunchbadger.com
+  description: multicloud platform for microservices and serverless
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/lunchbadger
+  suggested_slug: lunchbadger
+  in_network: false
+  is_api_provider: false
+- name: Kloudless
+  url: https://www.kloudless.com
+  description: SaaS API integration platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/kloudless
+  suggested_slug: kloudless
+  in_network: false
+  is_api_provider: false
+- name: Timekit
+  url: https://www.timekit.io
+  description: automated scheduling
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/timekit
+  suggested_slug: timekit
+  in_network: false
+  is_api_provider: false
+- name: Testim
+  url: https://www.testim.io
+  description: automated functional testing
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/testim
+  slug: testim-io
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: ReadMe
+  url: https://www.readme.io
+  description: professional quality docs
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/readme
+  slug: readme
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: NodeSource
+  url: https://www.nodesource.com
+  description: the safest and most secure Node.js platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/nodesource
+  suggested_slug: nodesource
+  in_network: false
+  is_api_provider: false
+- name: Serverless
+  url: https://www.serverless.com
+  description: build and operate serverless architectures
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/serverless
+  slug: concept-serverless
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Netlify
+  url: https://www.netlify.com
+  description: the most comprehensive platform for web projects
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/netlify
+  slug: netlify
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Snyk
+  url: https://www.snyk.io
+  description: cloud native application security provider
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/snyk
+  slug: snyk
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Mux
+  url: https://www.mux.com
+  description: the API for video
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/mux
+  slug: mux-com
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Convox
+  url: null
+  description: deploy and manage applications in the cloud
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/convox
+  suggested_slug: convox
+  in_network: false
+  is_api_provider: false
+- name: Billforward
+  url: https://www.billforward.io
+  description: complex billing simplified
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/billforward
+  suggested_slug: billforward
+  in_network: false
+  is_api_provider: false
+- name: Lightstep
+  url: https://www.lightstep.com
+  description: the DevOps observability platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/lightstep
+  slug: lightstep
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Opsee
+  url: https://www.opsee.com
+  description: monitoring built for AWS
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/opsee
+  suggested_slug: opsee
+  in_network: false
+  is_api_provider: false
+- name: Citus Data
+  url: https://www.citusdata.com
+  description: distributed Postgres
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/citus-data
+  slug: citus-data
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: LaunchDarkly
+  url: https://www.launchdarkly.com
+  description: Feature Flag Management
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/launchdarkly
+  slug: launchdarkly
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Particle
+  url: https://www.particle.io
+  description: integrated IoT platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/particle
+  slug: particle
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Apportable
+  url: https://www.apportable.com
+  description: mobile app development
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/apportable
+  suggested_slug: apportable
+  in_network: false
+  is_api_provider: false
+- name: Gradle (Develocity)
+  url: https://www.gradle.org
+  description: build automation system
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/develocity
+  slug: gradle
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: OverOps
+  url: https://www.overops.com
+  description: static and dynamic code analysis
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/overops
+  slug: overops
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Librato
+  url: https://www.librato.com
+  description: real-time operations analytics
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/librato
+  slug: librato
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Rainforest QA
+  url: https://www.rainforestqa.com
+  description: the complete QA platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/rainforestqa
+  slug: rainforest-qa
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Apiary
+  url: https://www.apiary.io
+  description: API design, development & documentation
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/apiary
+  slug: apiary
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Brace
+  url: null
+  description: web hosting service
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/brace
+  slug: brace
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Codenvy
+  url: https://www.codenvy.com
+  description: cloud workspaces for development teams
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/codenvy
+  suggested_slug: codenvy
+  in_network: false
+  is_api_provider: false
+- name: Pantheon
+  url: https://www.pantheon.io
+  description: website management platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/pantheon
+  slug: pantheon
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Runscope
+  url: https://www.runscope.com
+  description: API performance monitoring
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/runscope
+  slug: runscope
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Keen IO
+  url: https://www.keen.io
+  description: all-in-one solution for event data management
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/keenio
+  slug: keen
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: CloudConnect
+  url: https://www.cloudconnect.com
+  description: cloud-based integration platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/cloudconnect
+  suggested_slug: cloudconnect
+  in_network: false
+  is_api_provider: false
+- name: Apollo GraphQL
+  url: https://www.apollographql.com
+  description: open source tools for GraphQL
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/apollo-graphql
+  slug: anilist
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: CircleCI
+  url: https://www.circleci.com
+  description: continuous integration and delivery
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/circleci
+  slug: circleci
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: PagerDuty
+  url: https://www.pagerduty.com
+  description: ipo real-time incidence response
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: ipo
+  lead: null
+  source: https://www.heavybit.com/portfolio/pagerduty
+  slug: pagerduty
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Kodowa
+  url: null
+  description: integrated development environment
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/kodowa
+  suggested_slug: kodowa
+  in_network: false
+  is_api_provider: false
+- name: Treasure Data
+  url: https://www.treasuredata.com
+  description: enterprise customer data platform
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/treasure-data
+  slug: treasure-data
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Stripe
+  url: https://www.stripe.com
+  description: payment processing
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: active
+  lead: null
+  source: https://www.heavybit.com/portfolio/stripe
+  slug: stripe
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: ZenCoder
+  url: https://www.zencoder.com
+  description: cloud-based video encoding service
+  sector: Developer Tools / Infrastructure
+  stage: null
+  status: acquired
+  lead: null
+  source: https://www.heavybit.com/portfolio/zencoder
+  slug: zencoder
+  in_network: true
+  is_api_provider: true
+  matched_by: domain

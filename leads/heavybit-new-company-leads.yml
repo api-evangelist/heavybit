@@ -1,0 +1,235 @@
+generated: '2026-10-18'
+method: derived
+source_vc: heavybit
+leads:
+- name: Antfly
+  url: https://www.antfly.io
+  suggested_slug: antfly
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/antfly
+  stub_created: false
+- name: Modiqo
+  url: https://www.modiqo.ai
+  suggested_slug: modiqo
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/modiqo
+  stub_created: false
+- name: Musical AI
+  url: https://www.wearemusical.ai
+  suggested_slug: musical-ai
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/musical-ai
+  stub_created: false
+- name: Milestone
+  url: https://www.mstone.ai
+  suggested_slug: milestone
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/milestone
+  stub_created: false
+- name: Unikraft
+  url: https://unikraft.com
+  suggested_slug: unikraft
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/unikraft
+  stub_created: false
+- name: Recce
+  url: https://datarecce.io
+  suggested_slug: recce
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/reduce
+  stub_created: false
+- name: Reo.dev
+  url: https://www.reo.dev
+  suggested_slug: reodev
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/reo
+  stub_created: false
+- name: Vibrant Labs
+  url: https://vibrantlabs.com
+  suggested_slug: vibrant-labs
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/vibrant-labs
+  stub_created: false
+- name: Kubiya
+  url: https://www.kubiya.ai
+  suggested_slug: kubiya
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/kubiya
+  stub_created: false
+- name: Duckbill
+  url: https://www.duckbillhq.com
+  suggested_slug: duckbillhq-com
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/duckbill
+  stub_created: false
+- name: MultiModel
+  url: https://www.multimodel.com
+  suggested_slug: multimodel
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/multimodel
+  stub_created: false
+- name: Moonchild
+  url: https://www.moonchild.ai
+  suggested_slug: moonchild
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/moonchild
+  stub_created: false
+- name: Mobot
+  url: https://www.teammobot.com
+  suggested_slug: mobot
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/mobot
+  stub_created: false
+- name: Kosli
+  url: https://www.kosli.com
+  suggested_slug: kosli
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/kosli
+  stub_created: false
+- name: Metrist
+  url: https://www.metrist.io
+  suggested_slug: metrist
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/metrist
+  stub_created: false
+- name: Begin
+  url: https://www.begin.com
+  suggested_slug: begin
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/begin
+  stub_created: false
+- name: PartnerPage
+  url: https://www.partnerpage.io
+  suggested_slug: partnerpage
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/partnerpage
+  stub_created: false
+- name: Shipyard
+  url: https://www.shipyard.build
+  suggested_slug: shipyard
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/shipyard
+  stub_created: false
+- name: Jeli
+  url: https://www.jeli.io
+  suggested_slug: jeli
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/jeli
+  stub_created: false
+- name: Avo
+  url: https://www.avo.app
+  suggested_slug: avo-app
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/avo
+  stub_created: false
+- name: TruSTAR
+  url: https://www.trustar.co
+  suggested_slug: trustar
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/trustar
+  stub_created: false
+- name: Greta
+  url: https://www.greta.io
+  suggested_slug: greta
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/greta
+  stub_created: false
+- name: LunchBadger
+  url: https://www.lunchbadger.com
+  suggested_slug: lunchbadger
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/lunchbadger
+  stub_created: false
+- name: Kloudless
+  url: https://www.kloudless.com
+  suggested_slug: kloudless
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/kloudless
+  stub_created: false
+- name: Timekit
+  url: https://www.timekit.io
+  suggested_slug: timekit
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/timekit
+  stub_created: false
+- name: NodeSource
+  url: https://www.nodesource.com
+  suggested_slug: nodesource
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/nodesource
+  stub_created: false
+- name: Convox
+  url: ''
+  suggested_slug: convox
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/convox
+  stub_created: false
+- name: Billforward
+  url: https://www.billforward.io
+  suggested_slug: billforward
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/billforward
+  stub_created: false
+- name: Opsee
+  url: https://www.opsee.com
+  suggested_slug: opsee
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/opsee
+  stub_created: false
+- name: Apportable
+  url: https://www.apportable.com
+  suggested_slug: apportable
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/apportable
+  stub_created: false
+- name: Codenvy
+  url: https://www.codenvy.com
+  suggested_slug: codenvy
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/codenvy
+  stub_created: false
+- name: CloudConnect
+  url: https://www.cloudconnect.com
+  suggested_slug: cloudconnect
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/cloudconnect
+  stub_created: false
+- name: Kodowa
+  url: ''
+  suggested_slug: kodowa
+  sector: Developer Tools / Infrastructure
+  source_vc: heavybit
+  source: https://www.heavybit.com/portfolio/kodowa
+  stub_created: false
